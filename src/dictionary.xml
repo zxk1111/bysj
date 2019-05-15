@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<group name="SYSUSER_ROLE">
+		<item key="1" value="管理员" />
+		<item key="2" value="普通用户" />
+	</group>
+	
+	<group name="GENDER_DEFINE">
+		<item key="1" value="男" />
+		<item key="2" value="女" />
+	</group>
+	
+	
+</dictionary>
